@@ -11,6 +11,7 @@ Version 1.0
    * [Overview of Python language](https://www.github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
     
    * [What Can I Do with Python?](https://github.com/satishsalyal/Inside-Python/blob/main/What%20Can%20I%20Do%20with%20Python%3F.md) 
+   * 
     •	What Are Python’s Technical Strengths?
     •	Setting up a Python development environment
     •	Overview of Python syntax
