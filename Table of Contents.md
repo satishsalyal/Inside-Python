@@ -8,7 +8,7 @@ Version 1.0
 ## Chapter 1: Introduction to Python Programming
    * [Overview of Python language](https://www.github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
     
-    #1589F0	What Can I Do with Python?
+    '#1589F0'	What Can I Do with Python?
     - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
 - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
