@@ -7,6 +7,8 @@ Version 1.0
 # Part 1: Getting Started
 ## Chapter 1: Introduction to Python Programming
     •	Overview of Python language
+    •	What Can I Do with Python?
+    •	What Are Python’s Technical Strengths?
     •	Setting up a Python development environment
     •	Overview of Python syntax
     •	Understanding variables, data types and data structures in Python
