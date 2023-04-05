@@ -9,7 +9,13 @@ Version 1.0
    * [Overview of Python language](https://www.github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
     
      What Can I Do with Python? #f03c15
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
     •	What Are Python’s Technical Strengths?
     •	Setting up a Python development environment
     •	Overview of Python syntax
