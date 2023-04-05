@@ -6,7 +6,7 @@ Version 1.0
 
 # Part 1: Getting Started
 ## Chapter 1: Introduction to Python Programming
-* [JavaTPoint Quiz 2](https://www.https://www.github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
+* [JavaTPoint Quiz 2] (https://www.https://www.github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
     •	[Overview of Python language](https://github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
     * [Overview of Python language]([https://www.javatpoint.com/directload.jsp?val=96](https://github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
     •	What Can I Do with Python?
