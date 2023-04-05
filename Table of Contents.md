@@ -6,7 +6,7 @@ Version 1.0
 
 # Part 1: Getting Started
 ## Chapter 1: Introduction to Python Programming
-    •	[Overview of Python language]()
+    •	[Overview of Python language](https://github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
     •	What Can I Do with Python?
     •	What Are Python’s Technical Strengths?
     •	Setting up a Python development environment
