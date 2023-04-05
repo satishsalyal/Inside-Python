@@ -80,7 +80,7 @@ Part 3: Data Structures and File Handling
     •	Understanding generators
     •	Understanding lambda functions
 
-# #0000 Part 6: Application Development
+# Part 6: Application Development
 ## Chapter 16: Web development with Flask. An introduction to web development with Flask.
 ## Chapter 17: Web development with Django. An introduction to web development with Django.
 ## Chapter 18: Data science with Python. An introduction to data science with Python, including how to work with pandas and numpy.
