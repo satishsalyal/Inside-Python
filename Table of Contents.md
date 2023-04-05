@@ -4,6 +4,7 @@ Version 1.0
 
 # Table of Contents
 
+# Part 1: Getting Started
 ## Chapter 1: Introduction to Python Programming
     •	Overview of Python language
     •	Setting up a Python development environment
@@ -16,6 +17,7 @@ Version 1.0
     •	Working with expressions
     •	Using built-in functions
     
+# Part 2: Control Structures and Functions    
 ## Chapter 3: Flow Control and Loops
     •	Understanding conditional statements (if-else)
     •	Using loops (for, while)
@@ -27,7 +29,8 @@ Version 1.0
     •	Creating and using user-defined functions
     •	Understanding scoping and global variables
     •	Understanding lambda functions
-    
+
+Part 3: Data Structures and File Handling
 ## Chapter 5: Strings
     •	Overview of strings
     •	Working with string operations (concatenation, slicing)
@@ -51,7 +54,8 @@ Version 1.0
     •	Working with text files
     •	Working with binary files
     •	Understanding file modes
-    
+
+# Part 5: Advanced Topics
 ## Chapter 9: Exception Handling
     •	Understanding exceptions
     •	Using try-except blocks
@@ -74,10 +78,10 @@ Version 1.0
     •	Understanding regular expressions
     •	Understanding decorators
     •	Understanding generators
-    •	Understanding context managers
-    
-## Chapter 13: Graphical User Interface (GUI) Programming
-    •	Understanding GUI programming with tkinter
-    •	Creating graphical user interfaces
-    •	Understanding event-driven programming
-    •	Understanding GUI widgets and their properties
+    •	Understanding lambda functions
+
+# #0000 Part 6: Application Development
+## Chapter 16: Web development with Flask. An introduction to web development with Flask.
+## Chapter 17: Web development with Django. An introduction to web development with Django.
+## Chapter 18: Data science with Python. An introduction to data science with Python, including how to work with pandas and numpy.
+## Chapter 19: Machine learning with Python. An introduction to machine learning with Python, including how to use scikit-learn and TensorFlow
