@@ -1,7 +1,7 @@
 
 ## Setting up a Python development environment:
 
-### step-by-step guide for setting up a Python development environment:
+### Step-by-step guide for setting up a Python development environment:
 
 **Choose a Python distribution:** You can choose between Anaconda or Miniconda, which are two popular distributions that come with Python and pre-installed packages.
 
