@@ -13,6 +13,7 @@ Version 1.0
     
    * [What Can I Do with Python?](https://github.com/satishsalyal/Inside-Python/blob/main/What%20Can%20I%20Do%20with%20Python%3F.md) 
    * [What Are Python’s Technical Strengths?](../What Are Python’s Technical Strengths?.md)
+   * 
     •	What Are Python’s Technical Strengths?
     <span style="color:blue">some *This is Blue italic.* text</span>
     •	Setting up a Python development environment
