@@ -15,7 +15,6 @@ Version 1.0
    * [What Are Python’s Technical Strengths?](https://github.com/satishsalyal/Inside-Python/blob/main/What%20Are%20Python%E2%80%99s%20Technical%20Strengths%3F.md)
    * 
     •	What Are Python’s Technical Strengths?
-    <span style="color:blue">some *This is Blue italic.* text</span>
     •	Setting up a Python development environment
     •	Overview of Python syntax
     •	Understanding variables, data types and data structures in Python
