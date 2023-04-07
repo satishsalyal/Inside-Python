@@ -14,7 +14,7 @@ Version 1.0
    * [What Can I Do with Python?](https://github.com/satishsalyal/Inside-Python/blob/main/What%20Can%20I%20Do%20with%20Python%3F.md) 
    * [What Are Python’s Technical Strengths?](https://github.com/satishsalyal/Inside-Python/blob/main/What%20Are%20Python%E2%80%99s%20Technical%20Strengths%3F.md)
    * [Setting up a Python development environment](https://github.com/satishsalyal/Inside-Python/blob/main/Setting%20up%20a%20Python%20development%20environment.md)
-   * [Overview of Python syntax](https://github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
+   * [Overview of Python syntax](https://github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20syntax.md)
    
    
     •	Understanding variables, data types and data structures in Python
