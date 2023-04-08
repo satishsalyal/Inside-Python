@@ -9,16 +9,16 @@ Expressions are combinations of values, variables, operators, and function calls
 
 ```python
 
-##### Arithmetic expression
+# Arithmetic expression
 2 + 3 * 4
 
-##### Function call expression
+# Function call expression
 len("Hello, World!")
 
-### Comparison expression
+# Comparison expression
 5 > 3
 
-##### Logical expression
+# Logical expression
 (5 > 3) and (4 < 6)
 ```
 
@@ -26,18 +26,18 @@ Statements, on the other hand, are a complete instruction that Python can execut
 
 ```python
 
-##### Assignment statement
+# Assignment statement
 x = 10
 
-##### If statement
+# If statement
 if x > 5:
     print("x is greater than 5")
 
-##### For loop statement
+# For loop statement
 for i in range(5):
     print(i)
 
-##### Function definition statement
+# Function definition statement
 def add_numbers(x, y):
     return x + y
  ````
