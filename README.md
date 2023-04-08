@@ -38,7 +38,7 @@ Version 1.0
     •	Understanding scoping and global variables
     •	Understanding lambda functions
 
-Part 3: Data Structures and File Handling
+# Part 3: Data Structures and File Handling
 ## Chapter 5: Strings
     •	Overview of strings
     •	Working with string operations (concatenation, slicing)
