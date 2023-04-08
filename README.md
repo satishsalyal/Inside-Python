@@ -9,8 +9,7 @@ Version 1.0
 
 # Part 1: Getting Started
 ## Chapter 1: Introduction to Python Programming
-   * [Overview of Python language](https://www.github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)
-    
+   * [Overview of Python language](https://www.github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20language.md)    
    * [What Can I Do with Python?](https://github.com/satishsalyal/Inside-Python/blob/main/What%20Can%20I%20Do%20with%20Python%3F.md) 
    * [What Are Python’s Technical Strengths?](https://github.com/satishsalyal/Inside-Python/blob/main/What%20Are%20Python%E2%80%99s%20Technical%20Strengths%3F.md)
    * [Setting up a Python development environment](https://github.com/satishsalyal/Inside-Python/blob/main/Setting%20up%20a%20Python%20development%20environment.md)
@@ -20,7 +19,8 @@ Version 1.0
    
        
 ## Chapter 2: Operators and Expressions
-    •	Overview of arithmetic and comparison operators
+   * [Overview of arithmetic and comparison operators](https://github.com/satishsalyal/Inside-Python/blob/main/arithmetic%20and%20comparison%20operators.md)
+    •	
     •	Understanding operator precedence
     •	Working with expressions
     •	Using built-in functions
