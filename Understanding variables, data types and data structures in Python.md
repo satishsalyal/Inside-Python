@@ -34,6 +34,32 @@ print(c)
 ```
 In this example, we have created two variables, a and b, and assigned them the values 5 and 2.5, respectively. We then added them and assigned the result to the variable c. Finally, we printed the value of c, which is 7.5.
 
+## Integer (int)
+
+Integers are whole numbers that can be positive, negative, or zero. In Python, integers are represented using the 'int' keyword. For example:
+
+```python
+x = 42
+print(type(x))  # output: <class 'int'>
+```
+
+### Floating-point number (float)
+Floating-point numbers are numbers with a decimal point. In Python, they are represented using the 'float' keyword. For example:
+
+```python
+x = 3.14
+print(type(x))  # output: <class 'float'>
+```
+
+### Boolean (bool)
+
+Booleans are a binary data type that can only take on two values: True or False. In Python, they are represented using the 'bool' keyword. For example:
+
+```python
+x = True
+print(type(x))  # output: <class 'bool'>
+```
+
 #### Strings
 
 Strings are used to represent textual data in Python. They are enclosed in quotes, either single ('') or double (""). In Python, strings are immutable, which means that you cannot change the value of a string after it is created.
