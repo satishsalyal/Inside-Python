@@ -1,4 +1,4 @@
-##  arithmetic and comparison operators in python
+##  Arithmetic and Comparison Operators in Python
 
 ### Arithmetic Operators:
 Arithmetic operators are used to perform mathematical operations on numeric values in Python. Here are the arithmetic operators in Python:
@@ -93,25 +93,32 @@ x = 2
 y = 2
 result = x == y
 print(result) # Output: True
-Not equal to (!=):
+```
+#### Not equal to (!=):
 The not equal to operator != checks if the values of two operands are not equal. For example:
-python
-Copy code
+```python
+
 x = 2
 y = 3
 result = x != y
 print(result) # Output: True
-Greater than (>):
+```
+### #Greater than (>):
 The greater than operator > checks if the value of the first operand is greater than the value of the second operand. For example:
-python
-Copy code
+
+```python
+
 x = 3
 y = 2
 result = x > y
 print(result) # Output: True
-Less than (<):
+```
+#### Less than (<):
 The less than operator < checks if the value of the first operand is less than the value of the second operand. For example:
-python
-Copy code
+
+```python
+
 x = 2
 y = 3
+result = x < y
+print(result) # Output: True
