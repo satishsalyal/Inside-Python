@@ -21,9 +21,10 @@ Version 1.0
 ## Chapter 2: Operators and Expressions
    * [Overview of arithmetic and comparison operators](https://github.com/satishsalyal/Inside-Python/blob/main/arithmetic%20and%20comparison%20operators.md)
    * [Understanding operator precedence](https://github.com/satishsalyal/Inside-Python/blob/main/Understanding%20operator%20precedence.md)
+   * [Working with expressions](https://github.com/satishsalyal/Inside-Python/blob/main/working%20with%20expressions%20in%20Python.md)
     
     •	
-    •	Working with expressions
+    •	
     •	Using built-in functions
     
 # Part 2: Control Structures and Functions    
