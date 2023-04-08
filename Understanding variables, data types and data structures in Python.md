@@ -50,8 +50,9 @@ For example, in the following code snippet, the expression "x + y" is used in th
 x = 2
 y = 3
 z = x + y
-In summary, expressions and statements are essential components of Python code. Expressions are combinations of values and operators that produce a value, while statements are complete instructions that Python can execute. Understanding the difference between expressions and statements is crucial for writing correct and effective Python code.
 ```
+In summary, expressions and statements are essential components of Python code. Expressions are combinations of values and operators that produce a value, while statements are complete instructions that Python can execute. Understanding the difference between expressions and statements is crucial for writing correct and effective Python code.
+
 
 ### Variables
 
