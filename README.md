@@ -15,10 +15,10 @@ Version 1.0
    * [What Are Python’s Technical Strengths?](https://github.com/satishsalyal/Inside-Python/blob/main/What%20Are%20Python%E2%80%99s%20Technical%20Strengths%3F.md)
    * [Setting up a Python development environment](https://github.com/satishsalyal/Inside-Python/blob/main/Setting%20up%20a%20Python%20development%20environment.md)
    * [Overview of Python syntax](https://github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Python%20syntax.md)
+   * [Understanding variables, data types and data structures in Python](https://github.com/satishsalyal/Inside-Python/blob/main/Understanding%20variables%2C%20data%20types%20and%20data%20structures%20in%20Python.md)
    
    
-    •	Understanding variables, data types and data structures in Python
-    
+       
 ## Chapter 2: Operators and Expressions
     •	Overview of arithmetic and comparison operators
     •	Understanding operator precedence
