@@ -1,6 +1,57 @@
-## Understanding variables, data types and data structures in Python
+## Understanding Expression, variables, data types and data structures in Python
 
 Python is a versatile and powerful programming language that is widely used in the industry. One of the essential concepts of Python is understanding variables, data types, and data structures. In this chapter, we will explore these concepts in detail, along with examples.
+
+
+In Python, expressions and statements are fundamental building blocks of the language.
+
+Expressions are combinations of values, variables, operators, and function calls that Python can evaluate to produce a value. Expressions are usually used to perform calculations, manipulate data, and perform operations on objects. Here are some examples of expressions:
+
+```python
+
+##### Arithmetic expression
+2 + 3 * 4
+
+##### Function call expression
+len("Hello, World!")
+
+### Comparison expression
+5 > 3
+
+##### Logical expression
+(5 > 3) and (4 < 6)
+```
+
+Statements, on the other hand, are a complete instruction that Python can execute. Statements often involve expressions, but they can also include control flow statements, assignments, loops, and function definitions. Here are some examples of statements:
+
+```python
+
+##### Assignment statement
+x = 10
+
+##### If statement
+if x > 5:
+    print("x is greater than 5")
+
+##### For loop statement
+for i in range(5):
+    print(i)
+
+##### Function definition statement
+def add_numbers(x, y):
+    return x + y
+ ````
+In Python, expressions can be used as part of statements, such as in an assignment statement or a function call statement.
+
+For example, in the following code snippet, the expression "x + y" is used in the assignment statement:
+
+```python
+
+x = 2
+y = 3
+z = x + y
+In summary, expressions and statements are essential components of Python code. Expressions are combinations of values and operators that produce a value, while statements are complete instructions that Python can execute. Understanding the difference between expressions and statements is crucial for writing correct and effective Python code.
+```
 
 ### Variables
 
