@@ -27,7 +27,8 @@ Version 1.0
         
 # Part 2: Control Structures and Functions    
 ## Chapter 3: Flow Control and Loops
-    •	Understanding conditional statements (if-else)
+   * [Understanding conditional statements (if-else)](https://github.com/satishsalyal/Inside-Python/blob/main/Understanding%20conditional%20statements.md)
+    
     •	Using loops (for, while)
     •	Nested loops and control statements
     •	Understanding the range function
