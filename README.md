@@ -29,9 +29,10 @@ Version 1.0
 ## Chapter 3: Flow Control and Loops
    * [Understanding conditional statements (if-else)](https://github.com/satishsalyal/Inside-Python/blob/main/Understanding%20conditional%20statements.md)
    * [Using loops (for, while)](https://github.com/satishsalyal/Inside-Python/blob/main/Using%20loops%20(for%2C%20while).md)
+   * [Nested loops and control statements](https://github.com/satishsalyal/Inside-Python/blob/main/Nested%20loops%20and%20control%20statements.md)
     
     •	
-    •	Nested loops and control statements
+    •	
     •	Understanding the range function
     
 ## Chapter 4: Functions
