@@ -34,7 +34,9 @@ Version 1.0
     
      
 ## Chapter 4: Functions
-    •	Understanding functions and their importance
+
+  * [Understanding functions and their importance](https://github.com/satishsalyal/Inside-Python/blob/main/Understanding%20Functions%20and%20Their%20Importance.md)
+    
     •	Creating and using user-defined functions
     •	Understanding scoping and global variables
     •	Understanding lambda functions
