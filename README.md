@@ -44,8 +44,8 @@ Version 1.0
 ## Chapter 5: Strings
   * [Overview of strings](https://github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Strings.md)
   * [Working with string operations (concatenation, slicing)](https://github.com/satishsalyal/Inside-Python/blob/main/String%20Operation.md)
-    •	Understanding string methods
-    •	Formatting strings using the format method
+  * [Understanding string methods](https://github.com/satishsalyal/Inside-Python/blob/main/String%20Methods.md)
+  * [Formatting strings using the format method](https://github.com/satishsalyal/Inside-Python/blob/main/Formatting%20String.md)
     
 ## Chapter 6: Lists and Tuples
     •	Overview of lists and tuples
