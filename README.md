@@ -42,7 +42,7 @@ Version 1.0
 
 # Part 3: Data Structures and File Handling
 ## Chapter 5: Strings
-   *[Overview of strings](https://github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Strings.md)
+  * [Overview of strings](https://github.com/satishsalyal/Inside-Python/blob/main/Overview%20of%20Strings.md)
   * [Working with string operations (concatenation, slicing)](https://github.com/satishsalyal/Inside-Python/blob/main/String%20Operation.md)
     •	Understanding string methods
     •	Formatting strings using the format method
