@@ -37,8 +37,8 @@ Version 1.0
 
   * [Understanding functions and their importance](https://github.com/satishsalyal/Inside-Python/blob/main/Understanding%20Functions%20and%20Their%20Importance.md)
   * [Creating and using user-defined functions](https://github.com/satishsalyal/Inside-Python/blob/main/Creating%20and%20using%20user-defined%20functions.md)
-    •	Understanding scoping and global variables
-    •	Understanding lambda functions
+  * [Understanding scoping and global variables](https://github.com/satishsalyal/Inside-Python/blob/main/Creating%20and%20using%20user-defined%20functions.md)
+  * [Understanding lambda functions](https://github.com/satishsalyal/Inside-Python/blob/main/Creating%20and%20using%20user-defined%20functions.md)
 
 # Part 3: Data Structures and File Handling
 ## Chapter 5: Strings
