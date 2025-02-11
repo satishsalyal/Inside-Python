@@ -1,4 +1,3 @@
-# Inside-Python
 
 # Inside Python
 
